@@ -13,27 +13,3 @@ For this project we will attempt to use KMeans Clustering to cluster Universitie
 It is very important to note, we actually have the labels for this data set, but we will NOT use them for the KMeans clustering algorithm, since that is an unsupervised learning algorithm.
 
 When using the Kmeans algorithm under normal circumstances, it is because you don't have labels. In this case we will use the labels to try to get an idea of how well the algorithm performed, but you won't usually do this for Kmeans, so the classification report and confusion matrix at the end of this project, don't truly make sense in a real world setting!.
-
-The Data
-We will use a data frame with 777 observations on the following 18 variables.
-
-1	Private A factor with levels No and Yes indicating private or public university
-2	Apps Number of applications received
-3	Accept Number of applications accepted
-4	Enroll Number of new students enrolled
-5	Top10perc Pct. new students from top 10% of H.S. class
-6	Top25perc Pct. new students from top 25% of H.S. class
-7	F.Undergrad Number of fulltime undergraduates
-8	P.Undergrad Number of parttime undergraduates
-9	Outstate Out-of-state tuition
-10	Room.Board Room and board costs
-11	Books Estimated book costs
-12	Personal Estimated personal spending
-13	PhD Pct. of faculty with Ph.D.’s
-14	Terminal Pct. of faculty with terminal degree
-15	S.F.Ratio Student/faculty ratio
-16	perc.alumni Pct. alumni who donate
-17	Expend Instructional expenditure per student
-18	Grad.Rate Graduation rate
-
-
