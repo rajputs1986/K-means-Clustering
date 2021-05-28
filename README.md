@@ -17,21 +17,23 @@ When using the Kmeans algorithm under normal circumstances, it is because you do
 The Data
 We will use a data frame with 777 observations on the following 18 variables.
 
-Private A factor with levels No and Yes indicating private or public university
-Apps Number of applications received
-Accept Number of applications accepted
-Enroll Number of new students enrolled
-Top10perc Pct. new students from top 10% of H.S. class
-Top25perc Pct. new students from top 25% of H.S. class
-F.Undergrad Number of fulltime undergraduates
-P.Undergrad Number of parttime undergraduates
-Outstate Out-of-state tuition
-Room.Board Room and board costs
-Books Estimated book costs
-Personal Estimated personal spending
-PhD Pct. of faculty with Ph.D.’s
-Terminal Pct. of faculty with terminal degree
-S.F.Ratio Student/faculty ratio
-perc.alumni Pct. alumni who donate
-Expend Instructional expenditure per student
-Grad.Rate Graduation rate
+1	Private A factor with levels No and Yes indicating private or public university
+2	Apps Number of applications received
+3	Accept Number of applications accepted
+4	Enroll Number of new students enrolled
+5	Top10perc Pct. new students from top 10% of H.S. class
+6	Top25perc Pct. new students from top 25% of H.S. class
+7	F.Undergrad Number of fulltime undergraduates
+8	P.Undergrad Number of parttime undergraduates
+9	Outstate Out-of-state tuition
+10	Room.Board Room and board costs
+11	Books Estimated book costs
+12	Personal Estimated personal spending
+13	PhD Pct. of faculty with Ph.D.’s
+14	Terminal Pct. of faculty with terminal degree
+15	S.F.Ratio Student/faculty ratio
+16	perc.alumni Pct. alumni who donate
+17	Expend Instructional expenditure per student
+18	Grad.Rate Graduation rate
+
+
